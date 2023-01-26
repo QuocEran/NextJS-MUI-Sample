@@ -1,0 +1,16 @@
+import React from "react";
+import { Box } from "@mui/material";
+
+const Footer = () => {
+  return (
+    <Box
+      component="footer"
+      sx={{
+        bgcolor: "primary.main",
+      }}
+    >
+      Footer
+    </Box>
+  );
+};
+export default Footer;
