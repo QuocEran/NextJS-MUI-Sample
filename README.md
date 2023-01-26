@@ -1,4 +1,4 @@
-## DMS - DLCN
+## Sample NextJS + MUI + Typescript application
 
 First, install dependencies: **yarn**.
 
